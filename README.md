@@ -38,8 +38,14 @@ Como parte del análisis exploratorio, se evaluó la relación entre la intenci�
 | Provocados     | 400+           | ~8%                 | ~92%                   |
 | Inválidos      | 100+           | ~5%                 | ~95%                   |
 
-### Conclusión:
+## Conclusión general
 
-Los ataques no provocados suelen ocurrir en contextos recreativos (nadar, surfear, bucear), lo que implica un mayor riesgo para bañistas. Sin embargo, la baja tasa de fatalidad indica que las respuestas ante los ataques han mejorado. Este análisis permite comprender mejor el comportamiento de los tiburones y orientar campañas de prevención en zonas turísticas.
+A través del análisis exploratorio y visual de los datos históricos de ataques de tiburón, se identificaron patrones clave como:
+
+- La mayoría de los ataques no son fatales.
+- Los ataques no provocados ocurren con mayor frecuencia en actividades recreativas como el surf o la natación.
+- Existen diferencias entre países y años, lo cual permite orientar campañas de prevención específicas.
+
+Gracias al trabajo colaborativo, se logró estructurar un enfoque ordenado que incluye limpieza de datos, visualización gráfica, análisis por tipo de ataque, y generación de conclusiones útiles. Este tipo de ejercicios demuestra el valor del análisis de datos como herramienta para comprender fenómenos reales y proponer soluciones con base empírica.
 
 
